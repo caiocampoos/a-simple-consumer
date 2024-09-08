@@ -1,5 +1,4 @@
-Mapinguatech Design System
-I maintain my own tech stach for personal projects, the idea is to avoid rewriting every key part of a web project every time i start something new. Usually every project will end up using one or many items of this stack:
+## Simple worker/consumer using amqp
 
 Design system Maintain cohesion of design/ui through my projects and redy to use components to use in any projects. Any new component that is needed will also be added to the design system for tuture use.
 
