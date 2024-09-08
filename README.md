@@ -15,6 +15,32 @@ Simple implemention of a worker/consumer that will be used to process assincrono
 It will have basic security and observability implementations out of the box. It will use rabbitmq as message broker. Will be improved over time from the same concept of core service.
 
 
+### Usefull commands
+
+Start rabbitmq using docker locally:
+```bash
+docker compose up -d
+```
+Compile the code
+```bash
+cargo build
+```
+Run the code
+```bash
+cargo run (run the code)
+```
+
+The broker will start at `http://localhost:15672/`
+
+Login using the credentials 
+```bash
+login: guest
+pssword: guest
+```
+
+Find the queue `queue_test` and publish any message, 
+the content will be printed on the terminal.
+
 ### Links for the other repos in the tech stack
 
 - [Design System](https://github.com/caiocampoos/mapinguatech-design-system)
