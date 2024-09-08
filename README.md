@@ -15,5 +15,5 @@ It will have basic security and observability implementations out of the box. It
 
 ### Links for the other repos in the tech stack
 
-[Design System](https://github.com/caiocampoos/mapinguatech-design-system)
-[Server]() `soon`
+- [Design System](https://github.com/caiocampoos/mapinguatech-design-system)
+- [Server]() `soon`
